@@ -12,6 +12,6 @@ Started by reading the guide, completed till the flash memory
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--8a8ac78c77ca23162c5c3add1f69cf7f4434fd73/image.png)
 
-Took me about an hour and a half. I had to redo once as I used the wrong board instead of RP2040
+Took me about an hour and a half. I had to redo it once as I used the wrong board instead of RP2040
   
 
