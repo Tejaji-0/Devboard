@@ -15,3 +15,11 @@ Started by reading the guide, completed till the flash memory
 Took me about an hour and a half. I had to redo it once as I used the wrong board instead of RP2040
   
 
+## 11/4/2025 - Completed  schematic  
+
+Hey everyone just completed the schematic
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODMxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--5e755405cf33d26623f2f6915b90d205ae599f03/image.png)
+Completed I/O readers and started with the PCB
+had to divert from guide for flash memory 
+Working on adding wifi and bluetooth will do it soon  
+
