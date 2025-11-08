@@ -23,7 +23,7 @@ Completed I/O readers and started with the PCB
 had to divert from guide for flash memory 
 Working on adding wifi and bluetooth will do it soon  
 
-## 11/8/2025 - Routed the pcb   
+## 11/8/2025 3 PM - Routed the pcb   
 
 Started designing the pcb and routed it, added custom silkscreen
 and changed the usb-c receptacle 
@@ -32,5 +32,12 @@ Will try to add bluetooth and wifi soon.
 Also need to optimize prize
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0MywicHVyIjoiYmxvYl9pZCJ9fQ==--72ae06413b6ec1d2c704610e4ee33fe2f7146519/image.png)
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--c2387f25a1038051a6810d592aaef2aa9a741804/image.png)
+  
+
+## 11/8/2025 8 PM - Not adding Wifi And bluetooth  
+
+Its impossible to fit an antenna this size would need an external antenna which is pretty expense about 50 dollars
+So i guess i am done with the build and i will be shipping it
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTQzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5bda36cedf2935b8399c65e0a453905773bf159/image.png)
   
 
