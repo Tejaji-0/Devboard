@@ -23,3 +23,14 @@ Completed I/O readers and started with the PCB
 had to divert from guide for flash memory 
 Working on adding wifi and bluetooth will do it soon  
 
+## 11/8/2025 - Routed the pcb   
+
+Started designing the pcb and routed it, added custom silkscreen
+and changed the usb-c receptacle 
+TODO:
+Will try to add bluetooth and wifi soon.
+Also need to optimize prize
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0MywicHVyIjoiYmxvYl9pZCJ9fQ==--72ae06413b6ec1d2c704610e4ee33fe2f7146519/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--c2387f25a1038051a6810d592aaef2aa9a741804/image.png)
+  
+
